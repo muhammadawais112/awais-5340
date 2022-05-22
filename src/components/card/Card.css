@@ -1,0 +1,43 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+
+.container {
+    margin-top: 110px !important;
+}
+
+.card {
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    transition: transform .3s;
+ 
+}
+
+.card:hover {
+    transform: translateY(-15px);
+    transition: transform .3s;
+}
+
+.text1 {
+    font-size: 13px;
+}
+
+.info {
+    line-height: 17px;
+}
+
+.star {
+    color: yellow;
+}
+.const span{
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+}
+.shoe{
+    background-color: red;
+}

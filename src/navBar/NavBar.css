@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.nav-link {
+    margin: 11px;
+    color: white !important;
+}
+
+.btn {
+    color: white !important;
+}
+
+.hove:hover {
+    background-color: white !important;
+    color: black !important;
+    border-radius: 10px;
+}
+
